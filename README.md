@@ -13,7 +13,7 @@ For more info on how to achieve a perfect acre, check the [Thonky guide](https:/
 
 # Installing
 - Download the [DeSmuME emulator](https://github.com/TASEmulators/desmume/releases/latest)
-- Download the [code of the repo](https://github.com/Anthcny144/ACWW-town-rating/archive/refs/heads/main.zip)
+- Download the [latest release](https://github.com/Anthcny144/ACWW-town-rating/releases/latest)
 - Extract the content and move `lua5.1.dll` and `lua51.dll` to the root of your DeSmuME folder 
 - Open the emulator, load your ROM and load your save file (File -> Import Backup Memory...)
 - Open a lua window: Tools -> Lua Scripting -> New Lua Script Window...
